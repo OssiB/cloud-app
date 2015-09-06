@@ -10,3 +10,4 @@ Clone repo
 $ git remote add origin https://github.com/OssiB/cloud-app.git
 ````
 
+Uncomment *Pair* class from 
