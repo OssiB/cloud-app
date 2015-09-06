@@ -6,6 +6,7 @@
 
 
 Clone repo
-`````sh
+````sh
 $ git remote add origin https://github.com/OssiB/cloud-app.git
+````
 
