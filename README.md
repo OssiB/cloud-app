@@ -1,4 +1,4 @@
-# How to test MapReduce with MRUnit
+# How to test MapReduce programs with MRUnit
 
 ### Requirements
 * Maven
