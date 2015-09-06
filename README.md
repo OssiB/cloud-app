@@ -15,6 +15,6 @@ Run
 ````sh
 mvn eclipse:eclipse
 ````
-There is  a test class *TestTitleCounterMapper* whic you can use as a starting point with your own tests.
+There is  a test class *TestTitleCounterMapper* which you can use as a starting point with your own tests.
 When you will submit your exercise remember to uncomment *Pair* class.
 
